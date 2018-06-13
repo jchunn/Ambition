@@ -71,8 +71,19 @@ This is a repository of all the things I would like to convert into projects, pr
 
 
 
+# Regularization notes:
+
++   L1 still is a shrinkage penalty, it just shrinks coefficients exactly to zero in a finite amount of time, where L2 shrinks them asymptotically to zero.   
++ L2 is preferred over L1 for several reasons.  L2 is a shrinkage penalty, where L1 will just set values to zero.  So L2 "moderates" your parameter values, while L1 just eliminates them.  Also, L2 is differentiable everywhere, so it makes back 
 
 
+
+
+# Neural Nets notes:
+
++ Paper on Dropout: http://www.cs.cmu.edu/~rsalakhu/papers/srivastava14a.pdf  
++ As for dropout, it's kind of like what you do in random forest where you only use a subset of variables in each tree.  You're suppressing the signal from some features so that other features have a chance to stand out.  It also helps decorrelate variables, so they stand more on their own.  
++ NN for NLP best practices: http://ruder.io/deep-learning-nlp-best-practices/index.html  
 
 
 
