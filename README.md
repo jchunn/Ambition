@@ -83,8 +83,12 @@ This is a repository of all the things I would like to convert into projects, pr
 
 + Paper on Dropout: http://www.cs.cmu.edu/~rsalakhu/papers/srivastava14a.pdf  
 + As for dropout, it's kind of like what you do in random forest where you only use a subset of variables in each tree.  You're suppressing the signal from some features so that other features have a chance to stand out.  It also helps decorrelate variables, so they stand more on their own.  
-+ NN for NLP best practices: http://ruder.io/deep-learning-nlp-best-practices/index.html  
-
++ NN for NLP best practices: http://ruder.io/deep-learning-nlp-best-practices/index.html   
++ random matrix theory to explain either saddle behaviour in neural net losses, or that most local minima are similar in depth    
+	+ https://arxiv.org/pdf/1412.0233.pdf  
+	+ https://arxiv.org/pdf/1611.06310.pdf  
+	+ https://arxiv.org/pdf/1406.2572.pdf  
+	
 
 
 
