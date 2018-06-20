@@ -89,7 +89,7 @@ This is a repository of all the things I would like to convert into projects, pr
 	+ https://arxiv.org/pdf/1611.06310.pdf  
 	+ https://arxiv.org/pdf/1406.2572.pdf  
 	
-
++ If NN isnt training: https://stats.stackexchange.com/questions/352036/what-should-i-do-when-my-neural-network-doesnt-learn
 
 
 
