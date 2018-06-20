@@ -26,6 +26,8 @@ This is a repository of all the things I would like to convert into projects, pr
 + stanford’s LP suite (https://stanfordnlp.github.io/CoreNLP/  ) - - tool/framework includes tokenization (text word splitting), tagging part of speech, grammar parsing (noun vs. verbs), named entity recognition, etc.  Else give this python utility a try: http://www.nltk.org/ ;  Similar to the stanford library - supports tokenizing, parsing, named entities identification  
 + DeepAR forecasting algorithm at Amazon (https://docs.aws.amazon.com/sagemaker/latest/dg/deepar.html) [See White paper](https://pdfs.semanticscholar.org/4eeb/e0d12aefeedf3ca85256bc8aa3b4292d47d9.pdf)
 
+# Fun videos to see
+(https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/videos) 
 
 # Piping to learn
 + Containers   
